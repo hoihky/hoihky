@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hoi Kwan  👋
+# Hi, I'm Hoi Kwan Yeung  👋
 
 **Software Developer** · Game Engines · GUI · C# .NET
 
