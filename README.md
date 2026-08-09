@@ -2,7 +2,7 @@
 
 # Hi, I'm Hoi Kwan Yeung  👋
 
-**Software Developer** · Game Engines · GUI · C# .NET
+**Software Developer** · Game Engines · GUI · C# .NET · C++
 
 </div>
 
@@ -38,7 +38,6 @@ These days, I'm channeling that curiosity into **open source projects** — buil
 - 🌱 Always learning — there's always another layer to peel back
 
 ---
-![GitHub Stats](https://ghstats.dev/api/card?username=hoihky)
 <div align="center">
 
 *If something here catches your eye, feel free to star a repo, open an issue, or say hello.*
