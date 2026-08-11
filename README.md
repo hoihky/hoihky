@@ -39,7 +39,7 @@ These days, I'm channeling that curiosity into **open source projects** — buil
 
 ---
 <div align="center">
-
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=hoihky&theme=sakura&days=30&width=320&height=80)
 *If something here catches your eye, feel free to star a repo, open an issue, or say hello.*
 
 </div>
