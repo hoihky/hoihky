@@ -2,13 +2,13 @@
 
 # Hi, I'm Hoi Kwan Yeung  👋
 
-**Software Developer** · Game Engines · GUI · C# .NET · C++
+**Software Architect** · Game Engines · GUI · C# .NET · C++
 
 </div>
 
 ---
 
-I'm a software developer with a deep love for **game engine development** and **GUI programming** — the craft of building systems that feel responsive, expressive, and alive under your hands. I bring extensive experience in **C#** and **.NET**, and in **Flutter** for cross-platform interfaces that look as good as they perform.
+I'm a software architect with a deep love for **game engine development** and **GUI programming** — the craft of building systems that feel responsive, expressive, and alive under your hands. I bring extensive experience in **C#** and **.NET**, and in **Flutter** for cross-platform interfaces that look as good as they perform.
 
 These days, I'm channeling that curiosity into **open source projects** — built for the joy of it, driven by genuine interest, and shared with anyone who might find them useful.
 
